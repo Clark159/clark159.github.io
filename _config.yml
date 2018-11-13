@@ -1,0 +1,24 @@
+# Site settings
+title: 昏睡領域
+email: clark159.chou@gmail.com
+description: Clark的心得筆記
+# > # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+
+# baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+# twitter_username: jekyllrb
+github_username:  Clark159
+permalink: /:year/:month/:day/:title/
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
+
+# highlight
+# 本地用rouge, github上用pygments
+highlighter: rouge
+# highlighter: rouge
+# highlighter: false
