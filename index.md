@@ -1,3 +1,11 @@
+---
+layout: default
+title: 首頁
+parent: null
+nav_order: 1
+permalink: /
+---
+
 # 昏睡領域
 
 

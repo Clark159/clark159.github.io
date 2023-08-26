@@ -1,0 +1,15 @@
+
+# Site
+title: 昏睡領域
+
+# Theme
+remote_theme: pmarsceill/just-the-docs
+aux_links:
+  "Source Code on GitHub":
+    - "https//github.com/Clark159"
+color_scheme: dark
+search_enabled: false
+
+# Plugins
+plugins:
+  - jekyll-sitemap
